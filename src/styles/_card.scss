@@ -9,7 +9,6 @@
   &__image {
     width: 160px;
     height: 134px;
-    object-fit: contain;
     background-repeat: no-repeat;
     margin: 0 auto 40px;
   }
@@ -46,7 +45,6 @@
   &__price-container {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
     width: 100%;
     margin-bottom: 16px;
   }
